@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Lyrics Card Generator",
+  "description": "An application to generate and download beautifully designed lyrics cards for your favorite Spotify songs using AI.",
+  "requestFramePermissions": []
+}
